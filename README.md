@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Communicate using Markdown
+#### Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -127,7 +127,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
-### :keyboard: Activity: Adding an image
+###### :keyboard: Activity: Adding an image
 
 1. As you did before, edit the `index.md` file in this pull request.
 1. In the file, add the correct Markdown for your image of choice. Don't forget to include alt-text!
@@ -256,7 +256,7 @@ _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
 
-Here's a recap of all the tasks you've accomplished in your repository:
+### Here's a recap of all the tasks you've accomplished in your repository:
 
 1. You learned about Markdown, headings, images, code examples, and task lists.
 1. You created and merged a Markdown file.
